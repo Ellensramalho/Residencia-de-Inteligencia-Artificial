@@ -1,0 +1,23 @@
+{
+    "titulo": "O caso Twitter/X: algoritmo, espaço público e ultraliberalismo digital",
+    "autores": [
+        "Ettore Schimid Batalha",
+        "Jefferson Ribeiro da Silva",
+        "Bruno Daniel Vendruscolo Espinosa Velásquez"
+    ],
+    "ano": 2025,
+    "metricas": [
+        "Acervo inicial de 54.154 registros obtidos em OpenAlex, Crossref Metadata API, SciELO ArticleMeta API e Publish or Perish.",
+        "Período analisado: 2006 a 2025.",
+        "Foram consideradas 13 áreas do conhecimento na classificação temática.",
+        "Menções ao espaço público foram mensuradas por proporção anual Pₜ = (Mₜ / Nₜ) × 100%.",
+        "A análise de intervenção em séries temporais usou regressão linear com Wald test (α = 0,05).",
+        "O artigo informa aumento do discurso de ódio, proliferação de bots e retirada de anunciantes após flexibilização da moderação, mas sem apresentar valores numéricos específicos no texto fornecido."
+    ],
+    "limitacoes": [
+        "Os dados de pesquisa só estão disponíveis mediante solicitação.",
+        "O texto não explicita detalhadamente os resultados numéricos das séries temporais ou dos modelos estatísticos no corpo fornecido.",
+        "A identificação de menções a espaço público depende de quatro expressões-chave, o que pode não capturar todas as variações semânticas.",
+        "A classificação temática por área foi feita por dicionário de palavras-chave, o que pode introduzir ambiguidades e erros de categorização."
+    ]
+}

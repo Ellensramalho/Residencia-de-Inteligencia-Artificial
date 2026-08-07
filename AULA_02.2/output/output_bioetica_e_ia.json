@@ -1,0 +1,22 @@
+{
+    "titulo": "Entre o algoritmo e o Juramento de Hipócrates: bioética na era da inteligência artificial",
+    "autores": [
+        "Juracy Barbosa dos Santos",
+        "Guilhermina Rego",
+        "Rui Nunes"
+    ],
+    "ano": 2026,
+    "metricas": [
+        "Revisão bibliográfica narrativa de estudos publicados entre 2015 e 2024 nas bases PubMed, Scopus, SciELO e Web of Science.",
+        "O artigo menciona, de forma qualitativa, que algoritmos baseados em deep learning já demonstram desempenho comparável ou superior ao de especialistas humanos em tarefas específicas.",
+        "Cita que ferramentas de IA apresentam acurácia comparável ou superior à humana em tarefas como classificação de câncer de pele e predição de eventos cardiovasculares.",
+        "Não são apresentados resultados quantitativos próprios, amostras numéricas ou testes estatísticos originais."
+    ],
+    "limitacoes": [
+        "Predomínio de estudos teóricos e normativos, com escassez de dados empíricos sobre experiências reais de médicos e pacientes.",
+        "Ausência de estudos qualitativos suficientes para compreender como os dilemas éticos se manifestam na prática cotidiana.",
+        "Enfoque majoritariamente euro-americano, com pouca consideração de desigualdades digitais e especificidades culturais, legais e sociais de contextos latino-americanos e africanos.",
+        "Falta de integração entre marcos legais, clínicos e éticos em modelos práticos e aplicáveis.",
+        "Necessidade de pesquisas interdisciplinares e de maior engajamento com pacientes e fóruns de deliberação ética."
+    ]
+}
