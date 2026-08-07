@@ -114,4 +114,4 @@ if __name__ == "__main__":
                 caminho = os.path.join(pasta_markdowns, arquivo)
                 extrair_metadados(caminho)
     else:
-        print(f"⚠️ A pasta '{pasta_markdowns}' não foi encontrada no diretório atual.")
+       print(f"❌ Erro: A pasta '{pasta_markdowns}' não existe no caminho atual.")
