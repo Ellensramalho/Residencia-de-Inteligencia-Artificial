@@ -1,0 +1,1267 @@
+[
+  {
+    "chunk_id": 1,
+    "text": "E-ISSN: 2176-6665\n\nDOI: 10.5433/2176-6665.2025v30e52669\n\nRecebido em 30/03/2025; aprovado em 18/096/2025;\n\npublicado em 10/11/2025.\n\n## O caso Twitter/X: algoritmo, espaço público e ultraliberalismo d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 2,
+    "text": "igital\n\nThe Twitter/X Case: algorithm, public space, and digital ultra-liberalism\n\n*Ettore Schimid Batalha1 *Jefferson Ribeiro da Silva2 [URL 🔗](#page-0)\n\n*Bruno Daniel Vendruscolo Espinosa Velásquez3",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 3,
+    "text": "[URL 🔗](#page-0)\n\n## Resumo\n\nEste artigo investiga a dinâmica das redes sociais na formação do debate público, com ênfase no Twitter (atualmente denominado X) e na influência dos algoritmos na regula",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 4,
+    "text": "ção do conteúdo. Por meio de uma abordagem interdisciplinar que integra os conceitos da Sociologia Digital e das Ciências da Computação, o estudo analisa como os mecanismos de curadoria e moderação –",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 5,
+    "text": "operados por empresas privadas – afetam a construção dos discursos e a propagação das informações. O trabalho reúne um levantamento inicial de dados empíricos, análises acadêmicas e reportagens jornal",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 6,
+    "text": "ísticas para demonstrar que as alterações nas políticas de moderação, sobretudo após a aquisição do Twitter por Elon Musk, impactaram significativamente tanto a qualidade do conteúdo gerado quanto a c",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 7,
+    "text": "onfiança dos usuários e a sustentabilidade econômica da plataforma. Os resultados indicam que, embora a flexibilização das diretrizes de moderação possa ampliar o acesso e a visibilidade de diversas v",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 8,
+    "text": "ozes, ela também favorece o aumento do discurso de ódio, a proliferação de bots e a retirada de anunciantes, configurando um cenário desafiador para a manutenção de um debate público plural e transpar",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 9,
+    "text": "ente.\n\nPalavras-chave: redes sociais; espaço público; algoritmos; Twitter/X; desinformação.\n\n## Abstract\n\nThis article investigates the dynamics of social networks in shaping public debate, with an em",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 10,
+    "text": "phasis on Twitter (currently called X) and the influence of algorithms on content regulation. Using an interdisciplinary approach that integrates concepts from Digital Sociology and Computer Science,",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 11,
+    "text": "the study analyzes how curation and moderation mechanisms – operated by private companies – affect the construction of discourses and the dissemination of information. The research brings together emp",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 12,
+    "text": "irical data, academic analyses and journalistic reports to demonstrate that changes in moderation policies,\n\n\nespecially after Elon Musk’s acquisition of Twitter, have significantly impacted both the",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 13,
+    "text": "quality of the content generated and the trust of users and the platform’s economic sustainability. The results indicate that, although the relaxation of moderation guidelines can increase access and",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 14,
+    "text": "visibility of diverse voices, it also favors the increase in hate speech, the proliferation of bots and the removal of advertisers, creating a challenging scenario for maintaining a plural and transpa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 15,
+    "text": "rent public debate.\n\nKeywords: social networks; public space; algorithms; Twitter/X; disinformation.\n\n## Introdução\n\nEste estudo pretende analisar a maneira pela qual as redes sociais digitais, por\n\nm",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 16,
+    "text": "eio de suas dinâmicas, reivindicam para si o status de um “espaço público” para debates neste contexto da normatização do ultraliberalismo no cenário político. A relação entre internet e espaço públic",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 17,
+    "text": "o, observada como relevante nos últimos anos, protagonizou uma série de movimentos que produziram tensões diversas ao redor do mundo. Por exemplo, a partir do compartilhamento maciço de informações e",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 18,
+    "text": "do desenvolvimento das Tecnologias de Informação e Comunicação, as redes sociais digitais se destacaram em diversas mobilizações nas últimas duas décadas, como as jornadas de junho de 2013 no Brasil e",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 19,
+    "text": "a Primavera Árabe, nas quais a utilização de redes sociais resultou em formas de engajamento e organização popular para a derrubada do regime incumbente (Castells, 2013).\n\nAtualmente, outra forma de",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 20,
+    "text": "engajamento, pautada na participação online como\n\ndemonstração de força na arena política, tem assumido o protagonismo nesse campo. Essa participação, pautada na veiculação de informações, transforma",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 21,
+    "text": "algumas plataformas em palcos de debates, entendendo que desta maneira o alcance de discursos e práticas políticas pode ser metrificado. Neste domínio, as ideias vinculadas à noção de “liberdade de ex",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 22,
+    "text": "pressão” se destacam em relação às demais.\n\nAssim, a problemática torna-se um desafio sociológico e conduz a algumas\n\nquestões: o que leva estes espaços de um domínio privado, estadunidense e ultralib",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 23,
+    "text": "eral, a reivindicarem legitimidade como espaço de debate público? De que maneira o borramento da fronteira entre liberdade e democracia se manifesta nesses espaços?\n\nPara demonstrar como essa dinâmica",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 24,
+    "text": "opera, sugerimos a investigação do caso\n\nTwitter/X como norte para análise desses discursos e de seus impactos políticos posteriores. Discutiremos, a partir de uma revisão bibliográfica, como o desen",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 25,
+    "text": "volvimento do digital orientou-se por uma ética liberal contraditória que, por um lado, naturalizou o uso das plataformas como um espaço de participação e livre expressão, ao mesmo tempo que, por outr",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 26,
+    "text": "o, a propriedade comercial das plataformas digitais se torna uma problemática. A aquisição do Twitter por Elon Musk – exemplo de como a questão da propriedade é atual – afetou significativamente as in",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 27,
+    "text": "terações e a qualidade das informações veiculadas, impacto da mudança das políticas de regulação de conteúdo.\n\nNo plano metodológico, um levantamento bibliométrico, por meio da\n\nutilização de APIs de",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 28,
+    "text": "sites de catalogação de trabalhos científicos, foi realizado para identificar como o debate sobre o Twitter/X se apresenta na literatura acadêmica, procurando responder a questão a respeito de sua rel",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 29,
+    "text": "evância enquanto objeto de estudo das formas de participação política.\n\n\nAssim, este trabalho orienta-se por esta área multifacetada da Sociologia\n\nDigital, na qual diversos campos de pesquisa são env",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 30,
+    "text": "olvidos, movidos pela necessidade de fazer um esforço interdisciplinar na busca de fontes históricas e teóricas, assim como na metodologia (Miskolci, 2017, p. 14).\n\nO objetivo da pesquisa, portanto, é",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 31,
+    "text": "identificar os impactos da construção dos\n\nalgoritmos das redes como um espaço público e do engajamento de informações do Twitter/X nas decisões e acontecimentos políticos atuais, demonstrando como e",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 32,
+    "text": "ste debate está presente na política e na academia.\n\nDessa maneira, a fim de facilitar a compreensão da dinâmica do diálogo entre\n\nalgoritmos privados e a noção de espaço público, o artigo foi estrutu",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 33,
+    "text": "rado da seguinte forma: 1. O espaço público e as impressões sobre o impacto da internet na participação política; 2. Entre a ética hacker e o ultraliberalismo; 3. O caso do Twitter/X: moderação, desin",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 34,
+    "text": "formação e impacto na democracia; e 4. Dados sobre o Twitter e análises bibliométricas.\n\n## 1 O espaço público e o impacto da internet para a participação política\n\nA “revolução tecnológica concentrad",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 35,
+    "text": "a nas tecnologias da informação”, como\n\naponta Castells (1999, p. 23), além de impor sua onipresença em nosso cotidiano, encaminha-se na direção da criação de um espaço virtual de informação que plura",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 36,
+    "text": "liza as formas de comunicação discursiva. Neste sentido, a popularização da internet a partir da década de 1990, suscitada pela tendência de diminuição das exigências de competências técnicas para seu",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 37,
+    "text": "uso, promoveu uma rápida expansão da web como um bem comum, não mais restrito às corporações e às instituições de ensino (Cardon, 2019). Esta expansão é, em um primeiro momento, permeada pela ideia o",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 38,
+    "text": "timista de que essa nova etapa do desenvolvimento tecnológico humano poderia promover de alguma maneira a distribuição democrática do saber e abrir espaço para a realização de uma nova etapa da políti",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 39,
+    "text": "ca democrática (Lévy, 1999).\n\nO novo milênio comprova de maneiras opostas as consequências efetivas das\n\ndinâmicas virtuais no meio social, seja por meio das “redes de indignação” que são o fermento p",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 40,
+    "text": "ara a irrupção da Primavera Árabe (Castells, 2013), seja pela alegada interferência da empresa Cambridge Analytica nos processos eleitorais da eleição presidencial dos Estados Unidos e no plebiscito p",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 41,
+    "text": "elo Brexit, ambos ocorridos em 2016 (Chun, 2021). Nesse contexto, não é surpreendente que o campo das mídias digitais tenha se tornado o principal espaço de veiculação de discursos públicos, onde o en",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 42,
+    "text": "gajamento funciona pela métrica da aprovação ou desaprovação.\n\nDeste modo, o layout típico de todas as principais plataformas (Facebook,\n\nInstagram, TikTok, LinkedIn, Twitter/X) reconfigura o sentido",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 43,
+    "text": "semântico sobre o que é curtir, responder e compartilhar4 (Van Djick, 2016, p. 174). Do mesmo modo, lives, stories, curtidas, engajamentos e cancelamentos tornam-se parte do vocabulário dos indivíduos",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 44,
+    "text": "ativos em redes sociais. Da linguagem à imagem, observa-se como o virtual influencia as relações sociais em diversas esferas. No campo político isso possui implicações de outra grandeza. [URL 🔗](#pag",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 45,
+    "text": "e-0)\n\n\nAs grandes plataformas digitais, por sua vez, atuam como mediadoras dessa\n\nracionalização dos discursos, ou seja, como o lugar onde as pessoas escrevem e postam suas impressões. Assumem, assim,",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 46,
+    "text": "o papel de um espaço privilegiado para o debate “público”, embora esse debate seja pré-estruturado e dominado pelas mídias de massa (Habermas, 2023, p. 29). Nesse sentido, os veículos de informação d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 47,
+    "text": "efinem o espaço de debate na modernidade.\n\nHistoricamente, a construção da esfera pública esteve associada à emergência\n\ndos meios de comunicação de massa, assim como à consolidação de espaços de deba",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 48,
+    "text": "te que possibilitaram a crítica social e política. De acordo com Habermas (2003, p. 3), a origem do espaço público remonta ao século XIX, período no qual a burguesia se organizou a partir da desagrega",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 49,
+    "text": "ção do social entre dois domínios, isto é, o público e o privado. Nesse sentido, a esfera privada, sob domínio patriarcal, era um espaço eminentemente feminino, distanciado das discussões contemporâne",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 50,
+    "text": "as sobre direitos individuais. Em contraste, a esfera pública se constituiu por intermédio da politização da vida social burguesa, manifestada pela emergência da imprensa de opinião e pela luta contra",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 51,
+    "text": "a censura em defesa da liberdade de expressão. A politização das redes de comunicação pública transforma, dessa maneira, a natureza de sua função, e, por outro lado, a expansão de tais redes é incess",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 52,
+    "text": "ante desde então. Em vista disso, o filósofo alemão, ao observar o início da participação política tecnológica, sugere que há neste espaço uma horizontalização dos sujeitos, similar à época dos caçado",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 53,
+    "text": "res/coletores, e uma desestruturação das fronteiras sociais (Habermas, 2003, p. 22). Sob este panorama, ele sugere, ao debater sobre as tecnologias de mídia de massa, que o espaço público\n\nTornou-se u",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 54,
+    "text": "ma verdadeira arena vassalizada pelo poder, no seio do qual se luta por temas, por contribuições, não somente por influência, mas também para um controle (tão dissimulado quanto possível) dos fluxos d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 55,
+    "text": "e comunicação eficazes. [...] [essa] arena [é] dominada pela mass-media, na qual se chocam tendências contraditórias. O nível de vassalização do poder deve se medir em função do grau segundo o qual as",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 56,
+    "text": "opiniões informais, não-públicas, são curto-circuitadas pelo fluxo de opiniões formais (Habermas, 2003, p. 11-12).\n\nAssim, ao compreendermos as mídias de massa como uma rede comunicacional\n\nempresari",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 57,
+    "text": "al que funciona de modo semelhante a uma arena de disputa de narrativas, podemos examinar criticamente a ética que orienta este novo ambiente digital. Pois, como afirmam Richard Barbrook e Andy Camero",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 58,
+    "text": "n (2003), este desenvolvimento tecnológico computacional se sustenta sobre uma ambiguidade ideológica: de um lado, os ideais de liberdade e descentralização do poder, de outro, a adesão aos princípios",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 59,
+    "text": "do laissez-faire e ao espírito empreendedor. Assim, esta ambiguidade se traduz nessa disputa pelo status primordial do digital entre ser a ágora do mundo moderno ou um mercado (marketplace).\n\nSob uma",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 60,
+    "text": "perspectiva atual, é preciso considerar também que a estrutura do\n\ndigital se modifica consideravelmente com o desenvolvimento da web, assim como pela popularização de computadores pessoais e a facil",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 61,
+    "text": "itação do acesso à rede (Cardon, 2019; Lévy, 1999). Essa transformação traz consigo alguns elementos novos fundamentais para a compreensão do que é o espaço público digital hoje.\n\n\nDesta maneira, essa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 62,
+    "text": "dinâmica do desenvolvimento do ciberespaço se aprofundou\n\nno início do milênio, em uma nova etapa da história da internet na qual sua natureza se modifica em relação ao momento anterior. Esta nova co",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 63,
+    "text": "nfiguração da rede ficou conhecida pelo termo web 2.0, que, segundo Tim O’Reilly (2005), é de um conceito sem fronteiras definidas, e sua caracterização é dependente de sua proximidade de um centro gr",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 64,
+    "text": "avitacional composto por determinados princípios, sendo o primeiro deles descrito pela seguinte proposição: “A web como uma plataforma”.\n\nUma das principais manifestações da web 2.0, fundamental para",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 65,
+    "text": "evento da\n\nplataformização da rede, é essa ascensão de sites/serviços denominados “rede sociais”; estas, de acordo Boyd e Ellison, são definidas “como serviços web nos quais usuários podem criar um pe",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 66,
+    "text": "rfil, construir e disponibilizar uma lista de conexões com outros usuários na rede” (Helmond, 2019, p. 53). Assim, as redes sociais assumem, desde seu surgimento, um papel central no ecossistema da re",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 67,
+    "text": "de.\n\nAs características fundamentais das redes sociais online são: dinamicidade,\n\nflexibilidade e caráter relacional. A dinamicidade refere-se à constante interação entre os usuários, influenciada dir",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 68,
+    "text": "etamente pela estrutura tecnológica por meio da qual as informações circulam. Já a flexibilidade diz respeito à fluidez e à volatilidade dos vínculos formados entre os indivíduos nessas redes, destaca",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 69,
+    "text": "ndo-se sua capacidade de expansão ou retração conforme novos usuários chegam ou outros se afastam (Martino, 2015, p. 56). Por último, o caráter relacional remete à interação entre diferentes atores –",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 70,
+    "text": "sejam eles indivíduos, empresas ou organizações – cuja ação contínua no ambiente online influencia diretamente padrões de comportamento offline, reconfigurando-os, segundo argumento central proposto p",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 71,
+    "text": "elo autor.\n\nEm consequência disso, a comunicação, antes mediada por veículos\n\ntradicionais como jornais, rádios e televisões, passa agora a ser processada por algoritmos que filtram, priorizam e distr",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 72,
+    "text": "ibuem os conteúdos de acordo com métricas de engajamento, popularidade e relevância – parâmetros estes que escapam muitas vezes à compreensão dos próprios usuários (Cardon, 2015, p. 19). Essa transfor",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 73,
+    "text": "mação implica uma dualidade: por um lado, a ampliação do acesso à informação e a democratização do debate; por outro, a emergência de mecanismos que podem restringir a diversidade de opiniões, promove",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 74,
+    "text": "ndo a formação de bolhas informacionais e a polarização dos discursos.\n\nEste aspecto negativo é ressaltado pela socióloga Wendy Chun quando afirma\n\nque a lógica de agrupamento promovida por algoritmos",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 75,
+    "text": "de redes sociais realiza um ataque aos princípios democráticos, pois, ao relegar as “noções de igualdade” em favor de uma agregação baseada “em semelhanças e interesses especializados”, o princípio d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 76,
+    "text": "a diversidade encontra-se ameaçado (Chun, 2021, p. 89). Assim, a própria economia dos discursos é afetada por essa nova forma de ser do espaço público.\n\nPortanto, considerando esse cenário no qual o c",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 77,
+    "text": "ontrole disciplinar sobre o\n\ndiscurso público está presente também nas plataformas digitais privadas orientadas por algoritmos, torna-se necessário investigar quais são as origens ideológicas que fund",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 78,
+    "text": "amentam essa transformação. Neste sentido, a chamada ética hacker (Vaz, 2002, p. 87), surgida entre os programadores estadunidenses a partir da década de 1960, emerge como um ponto fundamental para co",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 79,
+    "text": "mpreender os princípios que, ainda hoje, guiam a lógica do funcionamento dessas plataformas digitais.\n\n\n## 2 Entre a ética hacker e o ultraliberalismo\n\nA sistematização da ética hacker, ocorrida na dé",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 80,
+    "text": "cada de 1980, estabelece\n\nprincípios que apontam para uma forma distinta – e por vezes distorcida – de entender a produção e o compartilhamento da informação. No sentido de compartilhar o poder de pro",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 81,
+    "text": "cessamento dos computadores, as premissas que orientavam os programadores estadunidenses forjam um discurso liberal extremado, como, por exemplo: “o acesso a computadores e a qualquer coisa que possa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 82,
+    "text": "ensinar sobre como o mundo funciona deve ser ilimitado e total”; “toda informação quer ser livre”; “renda-se ao imperativo do trabalho”; “faça você mesmo”; “alimente o barulho do sistema”; “navegue”5",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 83,
+    "text": "(Vaz, 2002, p. 87). Ao discorrer sobre o funcionamento desta ética, Barbrook (2003, p. 148) define a “netiqueta” como o padrão de comportamentos que expressam uma ideia a respeito da liberdade de info",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 84,
+    "text": "rmação, segundo os princípios dos primeiros modulares de softwares. [URL 🔗](#page-0)\n\nA forma instrumental do funcionamento digital das redes sociais, operando por\n\nmeio dessa ética, estabelece a libe",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 85,
+    "text": "rdade de expressão como sinônimo da liberdade de informação. Afinal, a ética hacker fornece a hipótese de que o próprio funcionamento da computação reitera a lógica de que informação é qualquer dado q",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 86,
+    "text": "ue possa ser digitalizado. Da mesma maneira, Barbrook (2003) também sugere que havia entre os primeiros usuários a ideia de que a liberdade de informação na era digital era “o direito de fazer barulho",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 87,
+    "text": "[...] de criar seu próprio código e trabalhar [...] o direito de fazer a escolha livre e irrevogável de se interligar ao código dos outros – isto é, o direito de resolver a vida” (Barbrook, 2003, p.",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 88,
+    "text": "148).\n\nEssa transformação da noção de informação é fundamental para compreender\n\ncomo seu impacto reestruturou a ideia sobre espaço público. Com o advento das Novas Tecnologias de Informação e Comunic",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 89,
+    "text": "ação, há uma crise entre o processo autoral, que deve ser devidamente regulado e controlado, como forma de “proteção ao autor”, e a máxima de excluir da autoria o poder sobre a informação digital. Com",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 90,
+    "text": "essas mudanças, a informação ganha novos traços ao ser amplamente divulgada. Ela é ubíqua, pois pode estar em qualquer lugar do mundo, e, ao mesmo tempo, liberta do contexto de geração, opaca a toda",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 91,
+    "text": "referência à origem; também é anônima, pois a comunicação de um a muitos, de forma industrializada, dissolve a categoria de autor; e é dependente, pois agora, antes das esferas institucionalizadas de",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 92,
+    "text": "discurso, são os códigos de instrumentos (softwares, interfaces) que condicionam as pragmáticas institucionais, antes soberanas em seu poder disciplinar (Malini, 2003, p. 164).\n\nÉ interessante ressalt",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 93,
+    "text": "ar que essa ética pautou o funcionamento das formas de\n\nse entender o que é internet desde o início de seu uso comercial. A própria internet, como a conhecemos hoje, foi criada a partir de uma ideia t",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 94,
+    "text": "écnica fundamental, a arquitetura aberta de redes (Martino, 2015, p. 82), ou seja, a escolha de uma tecnologia específica da rede não seria ditada pela arquitetura da rede, mas poderia antes ser defin",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 95,
+    "text": "ida por um fornecedor, e em seguida essa rede poderia interligar-se a outras.\n\n\nPara efetivar essa arquitetura aberta, sua execução deriva do desenvolvimento\n\ndo hipertexto, que usa o sistema de links",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 96,
+    "text": ". Segundo Martino (2015, p. 87), o uso dos hyperlinks representa uma conexão entre informações que não é organizada hierarquicamente e de modo linear. Assim, um texto em hipertexto não tem margem nem",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 97,
+    "text": "define, em sua materialidade, uma totalidade, como fazem o livro e o jornal. Os limites da compreensão de uma informação são dados pela curiosidade do leitor. A forma de comunicação também sofre um im",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 98,
+    "text": "pacto econômico significativo, pois os usuários, ao invés de comprar, doam as informações e bens para, no final, criar uma lógica pública. Como define Barbrook (2003, p. 152),\n\nA constituição desse et",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 99,
+    "text": "hos (o compartilhamento de informações) tem amparo tecnológico na arquitetura das redes com base em protocolos iguais, que pressupõem que múltiplas cópias dos documentos possam ser facilmente capturad",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 100,
+    "text": "as em toda rede. Cada um recebe da rede muito mais do que fornece ao outro. E, acima de tudo, doa tempo e ideias, e produz relação social.\n\nUm exemplo da formação desse tipo de troca de dados é o surg",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 101,
+    "text": "imento e a\n\npopularização do email. Criado em 1972 (Martino, 2015, p. 90), ele muda também a lógica de consumo das informações: instantâneo e assíncrono, o email dota o indivíduo da capacidade de envi",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 102,
+    "text": "ar a mesma mensagem para várias pessoas, e também permite a criação de uma comunidade de interesses em comum, sem que a proximidade espacial e/ou a social fossem determinantes para reunir pessoas.\n\nMa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 103,
+    "text": "lini (2003, p. 161) tece a ideia de economia da doação, onde a relação\n\ncooperativa de compartilhamento de arquivos gera uma comunidade que arquiva tudo e todos para que todos acessem tudo e todos. Se",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 104,
+    "text": "m essa relação cooperativa entre usuários não há produção de informação. Por se caracterizar pela coletividade, a produção de informação, segundo o autor, traz à tona o debate sobre a desinformação e",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 105,
+    "text": "sobre o direito à informação. Porém, esse debate não passa pela esfera jurídica, e sim pelo que é público no interior de cada informação. A partir disso, conclui-se que o debate por meio da troca de i",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 106,
+    "text": "nformações entre usuários da rede se torna um debate sobre o espaço público.\n\nNeste primeiro momento, havia um certo otimismo nos movimentos\n\nposteriores à troca de mensagens por email. No início dos",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 107,
+    "text": "anos 2000, o termo peer-to- peer (P2P) era utilizado para referenciar práticas em que os usuários de softwares de compartilhamento de dados piratas como o Napster6 se comunicavam entre si sem a interm",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 108,
+    "text": "ediação de nenhum agente (Malini, 2003, p. 163). Essa “igualdade” de funções que diferenciava os usuários nas trocas P2P propiciou a ideia de que o debate público teria uma arena nova a ser regulada.",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 109,
+    "text": "[URL 🔗](#page-0)\n\nSe não há intermediários, como pode haver um controle para a grande\n\nquantidade de dados veiculados entre usuários? Barbrook (2003) apresenta o conceito de “ideologia californiana” p",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 110,
+    "text": "ara demonstrar como as dinâmicas dos primeiros programadores pautaram as novas formas de comunicação e informação. Segundo tal ideologia, os governos nacionais são incapazes de controlar o sistema de",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 111,
+    "text": "comunicações por computador. Em vez disso, indivíduos e empresas competirão para fornecer bens e serviços nos mercados online. Assim, o autor sugere que tal ideologia retoma o debate\n\n\ndo liberalismo",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 112,
+    "text": "pós-revolução norte-americana (Barbrook, 2003, p. 134): um mercado virtual de intercâmbio de mercadorias de informação, onde as instituições públicas só serão necessárias para prover “regras do jogo”",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 113,
+    "text": "mínimas, para as pessoas poderem comercializar informação umas com as outras.\n\nEssa retomada do liberalismo clássico é o mote do desenvolvimento posterior\n\ndas regulações comerciais da internet e, por",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 114,
+    "text": "conseguinte, das redes sociais digitais. Com o advento das empresas .com no segmento P2P7, este método dá lugar ao formato pay- per-use ao invés da liberdade irrestrita de informações. Afinal, “à dif",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 115,
+    "text": "erença da censura política, os liberais acreditavam que a censura econômica era essencial para a liberdade da mídia” (Barbrook, 2003, p. 135). Esse mote estabelece que a propriedade intelectual na int",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 116,
+    "text": "ernet seria baseada nessa interpretação da Primeira Emenda da Constituição dos EUA, a liberdade irrestrita de expressão. Com a organização comercial tomando conta das relações “horizontais” e “pública",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 117,
+    "text": "s”, tem-se, portanto, um resultado híbrido da noção de informação (Barbrook, 2003, p. 139) nas redes: como dádiva, ao estabelecer a diluição de fronteiras e ampla participação pela economia de doação,",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 118,
+    "text": "e como mercadoria, ao estabelecer a lógica de que é a oferta que determina a demanda por informação (Barreto, 1995, p. 3). [URL 🔗](#page-0)\n\nCom essa concepção, conseguimos visualizar qual o argument",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 119,
+    "text": "o aqui proposto:\n\nque a internet e as formas de comunicação presentes nessa rede dialogam com as premissas de liberdade comercial, borrando a ideia de liberdade de expressão.Tem-se, portanto, a ideia",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 120,
+    "text": "de que o espaço da internet remete ao debate público, mas possui como dinâmica primordial de seu funcionamento a regulação comercial, advinda das próprias empresas, juntamente com um papel reduzido do",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 121,
+    "text": "Estado. A ética hacker, aliada ao rearranjo capitalista para as grandes plataformas digitais, estabelece em seu layout o favorecimento do que chamamos ultraliberalismo: a liberdade de expressão exist",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 122,
+    "text": "indo como mercadoria de mídia estabelece a noção de participação dos usuários, deslocando o poder do Estado e concentrando as decisões das empresas de plataformas digitais nos algoritmos de veiculação",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 123,
+    "text": "de informações.\n\n## 3 O caso do Twitter/X: moderação, desinformação e impacto na democracia\n\nNeste contexto no qual “a internet tornou-se a principal arena de comunicação\n\npolítica” (Cesarino, 2022,",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 124,
+    "text": "p. 39-40) estamos diante deste cenário em que as práticas democráticas se encontram sob risco, pois, como sugere a autora, a infraestrutura das novas mídias seria, em última instância, favorável à dir",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 125,
+    "text": "eita liberal, aos conspiracionismos e a forças antiestruturais (Cesarino, 2022, p. 70).\n\nO aprimoramento da tecnologia algorítmica é relevante para a compreensão\n\ndesta questão. De início, nos primórd",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 126,
+    "text": "ios da web, os algoritmos serviam para classificação de reputação de sites (Cardon, 2015, p. 19); no entanto, novas necessidades levaram ao surgimento de novas famílias de algoritmos e, de acordo com",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 127,
+    "text": "Cardon, cada uma destas utilizava formas de classificação determinadas por valores específicos: a popularidade, a autoridade, a reputação ou a predição (Cardon, 2015, p. 16). Resumidamente, os algorit",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 128,
+    "text": "mos de popularidade eram os mais simples entre eles – como o ranqueamento de sites baseado no número de clicks recebidos – enquanto os de predição eram mais sofisticados, por alimentarem-se de dados p",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 129,
+    "text": "rovenientes de técnicas de Machine\n\n\nLearning. Apesar de suas diferenças, há um elo unificador entre as diferentes formas de cálculo apresentadas por cada uma destas famílias: todas são alimentadas po",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 130,
+    "text": "r dados produzidos por usuários da web.\n\nA partir deste quadro, a problemática da privacidade dos dados produzidos\n\npelos usuários é pautada a partir da seguinte perspectiva: a consciência da ascensão",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 131,
+    "text": "do big data como a forma primordial de funcionamento dos algoritmos conduz à reflexão de que métricas sociais importantes são realizadas por meio de cálculos protegidos por direitos de propriedade in",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 132,
+    "text": "telectual e inacessíveis ao público. Assim, segundo Cardon (2015), estas novas técnicas de medição de comportamento vêm suplantar os antigos modelos estatísticos – estes que, até a virada do século pa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 133,
+    "text": "ssado, representavam a principal referência para a compreensão daquilo que se pode denominar vagamente de “opinião pública”. As estatísticas, nesse sentido, possuíam a qualidade de serem “abertas, ace",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 134,
+    "text": "ssíveis, e destinadas a um uso público garantido pelo Estado” (Cardon, 2015, p. 45). Os algoritmos, por outro lado, pertencem a empresas que fazem dos dados de centenas de milhões de pessoas um uso me",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 135,
+    "text": "rcadológico.\n\nA falta de transparência dos mecanismos gerenciadores dos dados de usuários,\n\nassim como dos conteúdos da web, coloca-se como uma questão fundamental para a democracia contemporânea (Car",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 136,
+    "text": "don, 2015, p. 9). Pois, segundo este sociólogo, a natureza dos algoritmos atuais carrega consigo consequências impactantes para além da interação virtual. A título de exemplo, a padronização é um fenô",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 137,
+    "text": "meno no qual a agência algorítmica pode ser observada: no momento em que o sujeito deixa de fazer uma escolha para aderir às recomendações de um determinado serviço, ele está delegando sua vontade às",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 138,
+    "text": "escolhas realizadas previamente pelos algoritmos. Assim, “uma quantidade considerável de escolhas práticas é feita por outros em nome das pessoas que desfrutam da comodidade de não precisar se dedicar",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 139,
+    "text": "a mil e uma decisões do dia a dia” (Cardon, 2015, p. 120). A escolha de não escolher tem repercussões sociais claras, já que permite a reprodução em massa de determinados padrões de escolha. No plano",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 140,
+    "text": "do entretenimento, esta parece ser uma questão menor; no entanto, este fenômeno não se restringe a este domínio da vida social.\n\nO caso Twitter/X reflete diversos aspectos citados até agora: em prime",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 141,
+    "text": "iro\n\nlugar, a atuação constante e direta de agentes políticos confere a este espaço certa relevância no interior da opinião pública; e uma das discussões mais destacáveis nesse ambiente é a noção de l",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 142,
+    "text": "iberdade – interpretada como maximização irrestrita da liberdade de expressão –, que é frequentemente contraposta à ideia de democracia institucional.\n\nAssim, a aquisição do Twitter/X representa um do",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 143,
+    "text": "s episódios mais\n\nemblemáticos e controversos da história recente das redes sociais. Originalmente lançado em 2006 como uma plataforma para compartilhamento de micromensagens e interação em tempo real",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 144,
+    "text": ", o Twitter consolidou-se como uma importante ferramenta para a disseminação de informações e para o debate público global. Ao longo dos anos, o serviço evoluiu de um espaço meramente informativo para",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 145,
+    "text": "uma arena onde discursos políticos, culturais e sociais se confrontam, tornando-se um termômetro das dinâmicas comunicacionais contemporâneas.\n\nA compra do Twitter por Elon Musk ocorreu em um context",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 146,
+    "text": "o de grande\n\npolarização política e social, em que as redes sociais se tornaram palco central para a expressão de divergências e para a mobilização de diferentes grupos. A promessa de uma suposta maio",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 147,
+    "text": "r liberdade de expressão, defendida pelo novo proprietário, foi\n\n\nacompanhada por preocupações acerca de uma eventual flexibilização das políticas de moderação – medidas que poderiam favorecer a proli",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 148,
+    "text": "feração de discursos de ódio e desinformação.\n\nA transição de gestão no Twitter/X evidenciou uma reconfiguração profunda\n\ndas políticas de moderação e da governança interna da plataforma. Como afirma",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 149,
+    "text": "Cardon (2019, tradução nossa), “os algoritmos não são neutros. Eles contêm uma visão da sociedade que lhes foi dada por aqueles que os programam – e por aqueles que pagam aqueles que os programam”. De",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 150,
+    "text": "sta forma, eles são instrumentos de poder que determinam quais vozes serão amplificadas e quais serão silenciadas.\n\nAlém disso, a reconfiguração das diretrizes de moderação deve ser entendida\n\ndentro",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 151,
+    "text": "do contexto do “capitalismo de vigilância”, onde a coleta e análise massiva de dados permitem não apenas a personalização dos conteúdos, mas também a manipulação das interações dos usuários para maxim",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 152,
+    "text": "izar receitas publicitárias. Segundo Shoshana Zuboff (2020), “o capitalismo de vigilância reivindica de maneira unilateral a experiência humana como matéria-prima gratuita para a tradução em dados com",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 153,
+    "text": "portamentais”. Essa dinâmica demonstra que a moderação de conteúdo vai além da proteção dos usuários – ela se torna também uma ferramenta para a exploração comercial dos dados dos usuários, direcionan",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 154,
+    "text": "do as estratégias de monetização da plataforma. Nesse cenário, a redução dos filtros e a maior dependência de métricas quantitativas representam uma aposta no modelo de engajamento, mas que, ao mesmo",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 155,
+    "text": "tempo, fragiliza os mecanismos de proteção contra abusos e discursos de ódio.\n\nEm síntese, a reconfiguração das diretrizes de moderação no Twitter/X reflete\n\num reposicionamento ideológico que, sob o",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 156,
+    "text": "pretexto de promover a liberdade de expressão, acaba por intensificar os riscos associados à propagação de conteúdo polarizador. Essa mudança está em consonância com a ideia de que “pressões de nature",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 157,
+    "text": "za competitiva provocaram a mudança, na qual processos de máquina automatizados não só conhecem nosso comportamento, como também moldam nosso comportamento em escala” (Zuboff, 2020, p. 19). A partir d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 158,
+    "text": "isso, torna-se relevante ressaltar que neste contexto a ausência de uma intervenção humana crítica permite que discursos prejudiciais ganhem espaço. A transformação do modelo de moderação, portanto, n",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 159,
+    "text": "ão só altera o equilíbrio entre liberdade e segurança, mas também insere a plataforma em um contexto de intensificação da polarização e do capitalismo de vigilância – fatores que, em conjunto, comprom",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 160,
+    "text": "etem a integridade do debate público e a proteção dos usuários.\n\n## 4 Dados sobre o Twitter e análises bibliométricas\n\nA metodologia adotada neste capítulo articula procedimentos de coleta,\n\ntratament",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 161,
+    "text": "o, análise estatística e mineração de texto para mapear a evolução da produção acadêmica sobre Twitter/X e aferir sua legitimação como espaço público digital. Em virtude da complexidade dos dados e da",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 162,
+    "text": "s múltiplas fontes, cada etapa foi desenhada para assegurar rigor, transparência e reprodutibilidade.\n\n## 4.1 Seleção e integração de fontes\n\nInicialmente, conduzimos buscas exaustivas em três reposit",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 163,
+    "text": "órios eletrônicos e\n\numa ferramenta de indexação acadêmica: OpenAlex, Crossref Metadata API e SciELO ArticleMeta API, além do software Publish or Perish (Harzing, 2007). Nas APIs,\n\n\nutilizou-se pagina",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 164,
+    "text": "ção via cursor – capaz de retornar centenas de milhares de registros sem incursões manuais –, garantindo cobertura completa de ocorrências do primeiro termo “twitter” em campos `title` ou `abstract`.",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 165,
+    "text": "Para a SciELO, adotamos parsing em lote dos arquivos XML, extraindo `<article-meta>` e componentes de `<article-title>`, `<abstract>` e metadados associados (ISSN, DOI, palavras-chave). A combinação d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 166,
+    "text": "essas quatro fontes resultou num acervo inicial de 54.154 registros, incluindo trabalhos em inglês e português.\n\n## 4.2 Processamento, normalização e deduplicação\n\nO corpo de dados foi consolidado em",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 167,
+    "text": "um DataFrame unificado via pacote\n\nPandas na linguagem Python, e submetido a rotinas de limpeza: remoção de acentuação (unidecode), converter string para minúsculas, eliminar caracteres especiais e es",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 168,
+    "text": "paços redundantes. Para evitar duplicidades, empregamos chaves compostas por DOI e versão normalizada de título (remoção de pontuação e espaços, padronização Unicode), conforme método descrito em Garf",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 169,
+    "text": "ield (1955) e Zhao et al. (2018). Em seguida, estruturamos o dataset segundo o padrão CSV de Publish or Perish, contemplando 26 variáveis principais (p. ex., `Cites`, `Authors`, `Title`, `Year`, `Sour",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 170,
+    "text": "ce`, `Publisher`, `Abstract`, `DOI`, `ISSN`) e três derivadas — `Age` (2025 − Year), `CitesPerYear`, `CitesPerAuthor` — garantindo que as métricas bibliométricas fundamentais estivessem prontas para a",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 171,
+    "text": "nálise. Valores nulos foram preenchidos com `None` para manter compatibilidade com metodologias de imputação futura.\n\n## 4.3 Delimitação temporal e abrangência linguística\n\nPara garantir coerência tem",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 172,
+    "text": "poral com o surgimento e maturidade do Twitter,\n\nfiltramos registros de 2006 (ano de lançamento) a 2025 (última indexação disponível). Ao contrário de outras pesquisas que restringem por idioma, optam",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 173,
+    "text": "os por manter artigos em inglês e português, o que permite comparar percepções regionais e internacionais. Essa decisão abrange estudos de contextos diversos – desde investigações de e-learning em paí",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 174,
+    "text": "ses lusófonos até análises de campanha política nos EUA – e preserva a representatividade global do fenômeno.\n\n## 4.4 Identificação de referências ao espaço público\n\nA hipótese central requer mensurar",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 175,
+    "text": "a frequência com que pesquisadores\n\ndescrevem o Twitter/X como arena de deliberação pública. Para tanto, selecionamos quatro expressões-chave: “espaço público”, “public sphere”, “arena de debate” e “",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 176,
+    "text": "opinião pública” (Feldman; Sanger, 2007; Jurafsky; Martin, 2020). Implementamos em Python uma função de busca baseada em expressões regulares com delimitadores fine- grained (`\\b...\\b`), aplicada de f",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 177,
+    "text": "orma iterativa aos campos `Title` e `Abstract` de cada registro. Quando um termo era detectado, a variável binária `mentions_public` recebia valor 1, indicando correspondência confiável; caso contrári",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 178,
+    "text": "o, recebia 0. Esse método garante objetividade e evita enviesamentos manuais, ao mesmo tempo que facilita auditoria posterior do código-fonte.\n\n\n## 4.5 Séries temporais e cálculo de proporções\n\nCom a",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 179,
+    "text": "sinalização de menções a espaço público, agrupamos o corpus por\n\n`Year` para derivar duas séries temporais: Nₜ (quantidade total de publicações em cada ano) e Mₜ (quantidade de publicações com `mentio",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 180,
+    "text": "ns_public = 1`). A proporção anual Pₜ = (Mₜ / Nₜ) × 100% foi então calculada para oferecer perspectiva relativa. Plotamos as séries Nₜ (Figura 1) e Pₜ (Figura 2), utilizando o pacote `matplotlib` com",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 181,
+    "text": "configurações de alta legibilidade – fonte sem serifa, grid sutil e exportação a 300 dpi — conforme recomendações de Tufte (2001) e Cleveland (1994). Os gráficos destacam o crescimento inicial, estabi",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 182,
+    "text": "lização e queda no volume de publicações relacionadas à plataforma digital.\n\n*Figura 1 - Nimero de publicacdes anuais sobre Twitter/X (2006-2025)*\n\n*Fonte: Elaboração própria*\n\nFonte: Elaboração própr",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 183,
+    "text": "ia\n\n\n## 4.6 Análise de intervenção em séries temporais\n\nPara investigar o impacto específico da aquisição do Twitter por Elon Musk\n\n(outubro/2022), adotamos o método de séries temporais interrompidas",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 184,
+    "text": "(ITS) descrito em Bernal, Cummins e Gasparrini (2017). Empregamos um modelo de regressão linear generalizada por mínimos quadrados ordinários, tomando o logaritmo de Nₜ como variável dependente e incl",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 185,
+    "text": "uindo três covariáveis: `Time` (anos decorridos desde 2006), `Post2022` (indicador binário 0/1) e a interação `Time×Post2022`. A equação estimada foi:\n\nEsse framework permite decompor efeitos imediato",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 186,
+    "text": "s (β₂) e mudanças de\n\ntendência (β₃) associados à intervenção de 2022. Os coeficientes foram avaliados por Wald test (α = 0,05). A Figura 3 exibe a comparação entre dados observados e valores ajustado",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 187,
+    "text": "s, enquanto a Figura 4 apresenta gráfico de resíduos versus valores preditos, atestando adequação diagnóstica.\n\n*Fonte: Elaboração própria*\n\nFonte: Elaboração própria\n\n\n## 4.7 Classificação por área d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 188,
+    "text": "o conhecimento\n\nPor fim, mapeamos cada registro a uma categoria temática usando um dicionário\n\nrefinado de palavras-chave, contemplando 13 áreas: Comunicação, Ciências Sociais, Política, Saúde, Tecnol",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 189,
+    "text": "ogia da Informação, Economia, Psicologia, Direito, Meio Ambiente, Educação, Marketing, Segurança e Humanidades. A distribuição resultante (Figura 5) e a proporção de menções a espaço público em cada á",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 190,
+    "text": "rea (Figura 6) revelam maior densidade de debate público nos domínios de Direito, Comunicação e Ciências Sociais.\n\n*Figura 5 – Distribuição refinada de artigos por área do conhecimento*\n\nFonte: Elabor",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 191,
+    "text": "ação própria\n\n*Figura 6 – Proporção de menções a “espaço público” por área refinada*\n\nFonte: Elaboração própria\n\n\nA combinação desses procedimentos – bibliométricos e estatísticos – fornece\n\nbase robu",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 192,
+    "text": "sta e replicável para sustentar a análise teórica subsequente sobre o caráter político e ultraliberal das práticas digitais no Twitter/X.\n\n## Considerações finais\n\nCom este breve debate teórico-analít",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 193,
+    "text": "ico, pretendemos contribuir para pesquisas\n\nposteriores que visem analisar as relações presentes nos movimentos digitais que se organizam politicamente. A partir das dinâmicas aqui analisadas, podemos",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 194,
+    "text": "visualizar um panorama agudo de institucionalização da ética ultraliberal, que, derivada da ética hacker, transforma a noção de informação na categoria de “qualquer dado que possa ser digitalizado”.",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 195,
+    "text": "Os algoritmos, processo racionalizante central para o desenvolvimento dessa forma de economia, estabelecem em sua dinâmica o borramento entre o público e o privado em sua totalidade: de um lado, as bi",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 196,
+    "text": "g techs controlam e dominam o espaço em que as impressões dos usuários, bem como suas informações pessoais, são registradas e influenciam os algoritmos, e, de outro, o público de consumidores tende a",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 197,
+    "text": "naturalizar a utilização dessas redes como arena política de disputa de narrativas. O layout do Twitter/X, principalmente, favorece essa impressão.\n\nO espaço digital das redes sociais estabelece algun",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 198,
+    "text": "s paradoxos iluministas:\n\nama-se a liberdade, mas odeia-se a democracia8. Visualizamos, portanto, um borramento dos conceitos de público/privado e de liberdade/democracia decorrente da digitalização a",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 199,
+    "text": "lgorítmica como forma de comunicação hegemônica no Ocidente. [URL 🔗](#page-0)\n\nSua estrutura funcional consolidou-se na lógica da propriedade privada,\n\narticulada a algoritmos e a uma ética ultraliber",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 200,
+    "text": "al – um discurso derivado da ética hacker, formulada nos primórdios da linguagem algorítmica como um princípio de “liberdade da informação” e uma premissa cooperativista de “economia da doação”. Com a",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 201,
+    "text": "entrada dos conglomerados comerciais de mídia e o uso massivo das redes sociais digitais, essa ética hacker, oriunda da chamada ideologia californiana (Barbrook, 2003), tornou-se a base do ultraliber",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 202,
+    "text": "alismo que estrutura os discursos e as formas de engajamento dos usuários – inclusive o tom predominante entre políticos com milhões de seguidores na plataforma X e seu próprio proprietário.\n\nA ética",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 203,
+    "text": "hacker fornece a hipótese de que o próprio funcionamento da computação\n\nreitera a lógica de que informação é qualquer dado que possa ser digitalizado. Vê-se, então, que no espaço das redes sociais, a",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 204,
+    "text": "partir dessa ética, as disputas concentram-se nas múltiplas narrativas, deslocando o poder do discurso a todo tempo, alimentando a forma das redes sociais como uma arena de disputa. Seus princípios nã",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 205,
+    "text": "o estão estabelecidos no ato de informar, e sim no engajamento.\n\nIsso aprofundou-se com a compra do Twitter por Elon Musk. Estabelecemos\n\nesse marco como ponto de análise, pois ele fornece um panorama",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 206,
+    "text": "de como os impactos do ultraliberalismo reivindicam os espaços privados como arenas legítimas do debate público. As afirmações de Musk, digitalizadas em sua própria rede, bem como as de outras person",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 207,
+    "text": "alidades públicas, carregam a ideia de um acesso mais “direto” às questões políticas pelos usuários. Na época da compra da rede, noticiava-se a demissão massiva de 7 mil funcionários em tempo real, ao",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 208,
+    "text": "mesmo tempo que os usuários procuravam um outro aplicativo com a mesma dinâmica em seu layout para migrarem.\n\n\nPosteriormente, os usuários brasileiros de fato migraram temporariamente para outras red",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 209,
+    "text": "es similares (Bluesky e Threads, por exemplo), pelo fato do comportamento ultraliberal de Musk acarretar sanções jurídicas para o funcionamento do Twitter no Brasil, que constituía a base do argumento",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 210,
+    "text": "do ministro Alexandre de Moraes de que seu comportamento e a rede social X incentivavam discursos extremistas e antidemocráticos (Tavares, 2024). Ainda, em virtude da retirada de qualquer representaç",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 211,
+    "text": "ão jurídica da rede no país, o ministro determinou a suspensão da rede, que durou cerca de 40 dias.\n\nOs dados aqui expostos também demonstram como o perfil dos usuários de\n\nTwitter/X foi se alinhando",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 212,
+    "text": "a um perfil de cidadãos conservadores a partir da venda da rede. Com o arrefecimento de um possível “fim do Twitter”, o que causou um engajamento considerável sobre tal assunto, novas diretrizes passa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 213,
+    "text": "ram a fazer parte da rede sem que a dinâmica de seu funcionamento apresentasse mudança significativa. Essa noção ultra-liberal conservadora, cristalizada com a venda da rede social, entretanto, foi ut",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 214,
+    "text": "ilizada até o momento para instaurar crises e concretizar o avanço de perfis de extrema-direita ao redor do mundo.\n\nNeste aspecto observamos como o borramento dos conceitos de liberdade/\n\ndemocracia c",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 215,
+    "text": "oexiste neste espaço. Com a naturalização do uso das mídias sociais digitais e a participação maciça de usuários em uma rede social, as pautas da informação criam as mais diversas narrativas sobre um",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 216,
+    "text": "fato.\n\nDessa forma, o borramento da noção de informação impacta diretamente a\n\nparticipação política de diversos grupos que, orientados por narrativas supostamente baseadas em dados históricos inexist",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 217,
+    "text": "entes, passam a consumir e reproduzir discursos dotados de um caráter pedagógico e mobilizador, semelhantes às dinâmicas dos movimentos sociais, entendidos como fontes de inovação e de produção de sab",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 218,
+    "text": "eres (GOHN, 2011, p. 333). Mesmo que atuem à margem das institucionalidades, as suas reivindicações – que vão de tentativas de golpe de Estado à disseminação de notícias falsas – evidenciam como o com",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 219,
+    "text": "portamento digital engendra uma modalidade de ação coletiva sociopolítica e cultural, capaz de articular práticas online e offline na expressão de demandas e identidades políticas. Quando confrontados",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 220,
+    "text": "por outros usuários ou pela justiça, esses grupos recorrem ao direito de liberdade de expressão, princípio garantido pelas próprias plataformas e reiterado pelos seus proprietários.\n\nTais desdobramen",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 221,
+    "text": "tos levam a uma crise das noções de liberdade virtual e da\n\ndemocracia institucional, onde a arena de disputa se intensifica nas redes sociais a cada nova notícia sobre a aliança entre empresários de",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 222,
+    "text": "mídias digitais e presidentes, tornando-se pauta também nas casas legislativas e cortes.\n\n## Referências\n\nBARBROOK, Richard. A regulamentação da liberdade: liberdade de expressão, liberdade de comérci",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 223,
+    "text": "o e liberdade de dádiva na rede. In: COCCO, Giuseppe; GALVÃO, Alexander Patez; SILVA, Gerardo (org.). Capitalismo cognitivo: trabalho, redes e inovação. Rio de Janeiro: DP&A Editora, 2003. p. 133-150.",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 224,
+    "text": "BARRETO, A. A oferta e a demanda da informação: condições técnicas, econômicas e políticas. Revista Ciência da Informação. Brasília: IBICT, vol. 28, n. 2. 1995.\n\nBERNAL, James Lopez; CUMMINS, Steven",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 225,
+    "text": "; GASPARRINI, Antonio. Interrupted time series regression for the evaluation of public health interventions: a tutorial. International Journal of Epidemiology, v. 46, n. 1, p. 348–355, 2017. DOI: 10.1",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 226,
+    "text": "093/ije/dyw098.\n\n\nCARDON, Dominique. À quoi rêvent les algorithmes: Nos vies à l’heure des big data. Paris: Éditions du Seuil, 2015.\n\nCARDON, Dominique. Culture numérique. Paris: Presses de Science-Po",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 227,
+    "text": ", 2019.\n\nCASTELLS, Manuel. A sociedade em rede. São Paulo: Paz e Terra, 1999.\n\nCASTELLS, Manuel. Redes de indignação e esperança. 2. ed. Rio de Janeiro: Zahar, 2013.\n\nCESARINO, Letícia. O mundo do ave",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 228,
+    "text": "sso: verdade política na era digital. São Paulo: Editora Ubu, 2022.\n\nCHUN, Wendy Hui Kyong. Discriminating data: correlation, neighborhoods, and the new politics of recognition. Cambridge: MIT Press,",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 229,
+    "text": "2021.\n\nCLEVELAND, W. S. The Elements of Graphing Data. New Jersey: Hobart Press, 1994.\n\nFELDMAN, Ronen; SANGER, James. The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data. Cam",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 230,
+    "text": "bridge: Cambridge University Press, 2007.\n\nGARFIELD, Eugene. Citation indexes for science: a new dimension in documentation through association of ideas. Science, v. 122, n. 3159, p. 108-111, 1955. DO",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 231,
+    "text": "I: 10.1126/science.122.3159.108.\n\nGOHN, Maria da Glória. Movimentos Sociais na Contemporaneidade. Revista Brasileira de Educação, v. 16, n. 17. p. 333-361, 2011. Disponível em: https://www.scielo.br/j",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 232,
+    "text": "/rbedu/a/vXJKXcs7cybL3YNbDCkCRVp/?format=pdf&lang=pt. Acesso em 22 out. 2025.\n\nHABERMAS, Jürgen. Espaço Público: 30 anos depois. Prefácio de 1990. In: HABERMAS, J. Mudança estrutural da esfera pública",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 233,
+    "text": ". São Paulo: Editora Unesp, 2014. p. 35-87. Disponível em: https://doceru.com/doc/s5vvvve. Acesso em 22 out. 2025.\n\nHABERMAS, Jürgen. Uma nova mudança estrutural da esfera pública e as condições da po",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 234,
+    "text": "lítica deliberativa. Tradução de Denilson Luís Werle. São Paulo: Unesp, 2023.\n\nHELMOND, Anne. A plataformização da web. In: OMENA, Janna Joceli (org.). Métodos digitais: teoria-prática-crítica. Lisboa",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 235,
+    "text": ": ICNOVA, 2019. p. 49-72.\n\nJURAFSKY, Daniel; MARTIN, James H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, with La",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 236,
+    "text": "nguage Models. 3rd ed., draft online, 2025. Stanford University. Disponível em: https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf. Acessoe m 22 out. 2025.\n\nLÉVY, Pierre. Cibercultura. 3. ed. S",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 237,
+    "text": "ão Paulo: Editora 34, 1999.\n\nMALINI, Fábio. A informação como arma política: do confinamento ao descontrole. In: COCCO, Giuseppe; GALVÃO, Alexander Patez; SILVA, Gerardo (org.). Capitalismo cognitivo:",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 238,
+    "text": "trabalho, redes e inovação. Rio de Janeiro: DP&A Editora, 2003. p. 151-191.\n\nMARTINO, Luis Mauro Sá. Teoria das mídias digitais: linguagens, ambientes e redes. Petrópolis: Vozes, 2015.\n\nMISKOLCI, Ric",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 239,
+    "text": "hard. Notas sobre o microfascismo nas redes sociais. Cult UOL, São Paulo, 3 mar. 2017. Disponível em: https://revistacult.uol.com.br/home/redes-de-ressentimento-notas- sobre-o-microfascismo-nas-redes-",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 240,
+    "text": "sociais/. Acesso em: 29 mar. 2024.\n\nO’REILLY, Tim. What is Web 2.0. United States: O’Reilly, 30 set. 2005. Disponível em: https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html?page=1. Acesso",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 241,
+    "text": "em: 13 de março de 2025.\n\nROSSI, Andrew. Torre de marfim (Ivory Tower). Noruega: Documentário, 2014.\n\nTAVARES, Vitor. Moraes determina bloqueio do X no Brasil após Elon Musk descumprir decisão judicia",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 242,
+    "text": "l. BBC News Brasil, São Paulo, 30 ago. 2024. Disponível em: https://www.bbc.com/portuguese/articles/c4gz28359d4o. Acesso em: 29 mar. 2025.\n\nTUFTE, E. R. The Visual Display of Quantitative Information.",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 243,
+    "text": "Cheshire, CT: Graphics Press, 2001.\n\nVAN DIJCK, José. La cultura de la conectividad: una historia crítica de las redes sociales. Buenos Aires: Editora Siglo Veintiuno, 2016.\n\nVAZ, Paulo. Cronologia d",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 244,
+    "text": "a internet. Revista Lugar Comum, Rio de Janeiro, n. 13-14, p. 81-89, 2002.\n\n\nZHAO, Dangzhi; STROTMANN, Andreas. Analysis and Visualization of Citation Networks. San Rafael, CA: Morgan & Claypool, 2015",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 245,
+    "text": ".\n\nZUBOFF, Shoshana. A era do capitalismo de vigilância: a luta por um futuro humano na nova fronteira do poder. Rio de Janeiro: Intrínseca, 2020. Ebook.\n\nDeclaração de Coautoria: Ettore Schimid Batal",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 246,
+    "text": "ha declara ter sido responsável “pelo debate teórico dos conceitos de espaço público, indústria cultural e ética hacker, desenvolvidos ao longo da seção 1 do artigo”, bem como perlas considerações fin",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 247,
+    "text": "ais. Jefferson Ribeiro da Silva afirma ter colaborado para o “Desenvolvimento teórico da seção 1”; e Bruno Daniel Vendruscolo Velasquez sustenta ter contribuído para o artigo com o “levantamento de da",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 248,
+    "text": "dos empíricos e revisão textual.”\n\n*Minicurrículo das Autorias:\n\nEttore Schimid Batalha.\n\nMestre em Sociologia (2018). Doutorando em Sociologia pela\n\nUniversidade Federal de São Carlos. Pesquisa finan",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 249,
+    "text": "ciada pela CAPES (Processo nº 88887.674096/2022-00). E-mail: ettorebatalha@gmail.com [URL 🔗](mailto:ettorebatalha@gmail.com)\n\nJefferson Ribeiro da Silva. Licenciado em Letras (2022) e Bacharel em Ciên",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 250,
+    "text": "cias Sociais (2014). Mestrando em Educação pela Universidade Federal de Mato Grosso do Sul. Pesquisa financiada pela CAPES (Processo nº 88887.161204/2025). E-mail: jefferson.silva@ufms.br [URL 🔗](mail",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 251,
+    "text": "to:jefferson.silva@ufms.br)\n\nBruno Daniel Vendruscolo Espinosa Velásquez.\n\nBacharel em Ciências Sociais (2012).\n\nMestrando junto ao Programa de Pós-Graduação em Modelagem de Sistemas Complexos da Univ",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 252,
+    "text": "ersidade de São Paulo. E-mail: velasquez.bruno@gmail.com. [URL 🔗](mailto:velasquez.bruno@gmail.com)\n\nDeclaração de Disponibilidade de Dados Os dados de pesquisa só estão disponíveis mediante solicitaç",
+    "metadata": {}
+  },
+  {
+    "chunk_id": 253,
+    "text": "ão.",
+    "metadata": {}
+  }
+]

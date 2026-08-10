@@ -342,7 +342,7 @@ def busca_semantica(
             resultado["texto"]
         )
         print(
-            "\n" + "-" * 70
+            "\n" + "-" * 50
         )
 
     return resultados[:top_k]
