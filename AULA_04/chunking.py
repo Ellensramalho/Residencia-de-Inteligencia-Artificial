@@ -793,6 +793,5 @@ print(
 )
 
 print(
-    "O arquivo selecionado em cada estratégia "
-    "é o mais próximo da mediana de chunks."
+    "O arquivo selecionado em cada estratégia é o mais próximo da mediana de chunks."
 )
