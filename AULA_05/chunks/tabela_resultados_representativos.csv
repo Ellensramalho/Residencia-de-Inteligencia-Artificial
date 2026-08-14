@@ -1,0 +1,11 @@
+﻿Teste,Estratégia,Arquivo representativo,Configuração,Quantidade de chunks
+1,Fixo,retrieval_augmented_generation.md,"200 caracteres, sem overlap",348
+2,Fixo,retrieval_augmented_generation.md,"500 caracteres, sem overlap",140
+3,Fixo,retrieval_augmented_generation.md,"1000 caracteres, sem overlap",70
+4,Fixo,retrieval_augmented_generation.md,"2000 caracteres, sem overlap",35
+5,Fixo + overlap,retrieval_augmented_generation.md,"500 caracteres, overlap 50",155
+6,Fixo + overlap,retrieval_augmented_generation.md,"500 caracteres, overlap 200",232
+7,Por parágrafo,bert_pretraining.md,Separação por parágrafos,401
+8,Por sentença,retrieval_augmented_generation.md,Sentenças agrupadas em 3,233
+9,Recursivo,retrieval_augmented_generation.md,Separadores hierárquicos,222
+10,Markdown,escrita_academica_ia.md,Separação por headings/seções,17
